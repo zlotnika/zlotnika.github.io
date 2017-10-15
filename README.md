@@ -1,7 +1,7 @@
 Alex Zlotnik
 ===
 
-[zlotnika@gmail.com](zlotnika@gmail.com)
+[zlotnika@gmail.com](mailto:zlotnika@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/zlotnika)
 [Github](https://github.com/zlotnika)
 
