@@ -1,6 +1,10 @@
 Alex Zlotnik
 ===
 
+zlotnika@gmail.com
+[LinkedIn](https://www.linkedin.com/in/zlotnika)
+[Github](https://github.com/zlotnika)
+
 **Software Architect, Engineer, Developer**
 
 I am a full-stack web engineer with leadership skills and a strong mathematical background. I enjoy solving tough problems related to data analysis, architecture, and product development.
