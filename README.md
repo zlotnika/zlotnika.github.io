@@ -1,9 +1,14 @@
-Alex Zlotnik
-===
+[Alexander W Zlotnik](https://avatars3.githubusercontent.com/u/1156745?s=400&v=4)
 
 [zlotnika@gmail.com](mailto:zlotnika@gmail.com)
+
+[858.603.9317](tel:8586039317)
+
 [LinkedIn](https://www.linkedin.com/in/zlotnika)
+
 [Github](https://github.com/zlotnika)
+
+===
 
 **Software Architect, Engineer, Developer**
 
@@ -13,19 +18,19 @@ Experience
 ---
 
 2015 - Present
-: **Software Engineer**, Citrix
-: I worked with a small team of engineers building [RightSignature](https://rightsignature.com). We all worked full-stack, pairing on and reviewing each others' work. I also worked with other departments in order to utilize resources efficiently.
+: **Software Engineer**; Citrix
+: I worked with a small team of engineers building [RightSignature](https://rightsignature.com). We all worked full-stack, pairing on and reviewing each others' work. I coordinated with other departments in order to utilize resources efficiently.
 - Managed the release of the RightSignature standalone product
 - Mentored engineers in the ways of Git, JavaScript, Ruby, Postgres
 
 2014 - 2015
-: **Software Architect**, Subvertical
+: **Software Architect**; Subvertical
 : I owned the flagship product, [VerticalChange](https://verticalchange.com). I met with clients and planned long-term goals for the company.
 - Pivoted the application from data collection to data sharing
 - Managed all new feature releases
 
 2011 - 2014
-: **Software Engineer**, Opus Logica
+: **Software Engineer**; Opus Logica
 : I built several prototype applications as well as maintained existing early-stage startup applications.
 - [Ecorithm](http://ecorithm.com)
 - [BuildZu](https://play.google.com/store/apps/details?id=com.buildzu.mobile&hl=en)
@@ -40,6 +45,10 @@ Experience
 : **Research Technician**; Novasite
 : I ran experiments for optimizing chemotherapy.
 
+2004
+: **Research Assistant**; The Scripps Research Institute
+: I created a soluble γδ T cell receptor. This can then be used as a screening tool to see what it recognizes.
+
 Education
 ---
 
@@ -52,7 +61,7 @@ Education
 Skills
 ---
 
-- English, some Spanish
+- English, Spanish (spoken)
 - JavaScript, Ruby, Python, Java, SQL
 - Ruby on Rails, Ember, Angular, Backbone, Node
-- Git, Emacs
+- Git, Emacs, Linux
