@@ -1,14 +1,12 @@
-[Alexander W Zlotnik](https://avatars3.githubusercontent.com/u/1156745?s=400&v=4)
+> [Alexander W Zlotnik](https://avatars3.githubusercontent.com/u/1156745?s=400&v=4)
 
-[zlotnika@gmail.com](mailto:zlotnika@gmail.com)
+> [zlotnika@gmail.com](mailto:zlotnika@gmail.com)
 
-[858.603.9317](tel:8586039317)
+> [858.603.9317](tel:8586039317)
 
-[LinkedIn](https://www.linkedin.com/in/zlotnika)
+> [LinkedIn](https://www.linkedin.com/in/zlotnika)
 
-[Github](https://github.com/zlotnika)
-
-===
+> [Github](https://github.com/zlotnika)
 
 **Software Architect, Engineer, Developer**
 
